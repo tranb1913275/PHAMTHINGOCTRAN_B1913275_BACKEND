@@ -1,0 +1,27 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tranb1913275",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranb1913275/B1913275_PHAMTHINGOCTRAN_BACKEND.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tranb1913275/B1913275_PHAMTHINGOCTRAN_BACKEND/issues"
+  },
+  "homepage": "https://github.com/tranb1913275/B1913275_PHAMTHINGOCTRAN_BACKEND#readme",
+  "description": ""
+}
